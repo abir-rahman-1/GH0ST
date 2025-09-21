@@ -400,7 +400,7 @@ logo = f'''\n      {cyan}
                                         
 {C}─────────────────────────────────────────────
 {C}| {G}OWNER   {W}: GH0ST x {W}ABIR
-{C}| {G}FACEBOOK  {W}: ABIR RAHMAN 
+{C}| {G}FACEBOOK{W}: ABIR RAHMAN 
 {C}| {G}VERSION {W}: 0.1
 {C}| {G}TOOLS   {W}: FACEBOOK OLD CLONING
 {C}| {G}STATUS  {W}: FREE
